@@ -84,11 +84,11 @@ export default function HomePage() {
             </thead>
             <tbody>
               <tr>
-                <td style={{ padding: "0.75rem", border: "1px solid #ccc" }}>Non-AC Hall Booking (5 Hours)*</td>
+                <td style={{ padding: "0.75rem", border: "1px solid #ccc" }}>Non-AC Hall Booking (5 Hours)</td>
                 <td style={{ padding: "0.75rem", border: "1px solid #ccc" }}>₹9,800</td>
               </tr>
               <tr>
-                <td style={{ padding: "0.75rem", border: "1px solid #ccc" }}>AC Charges Hall Booking (5 Hours)*</td>
+                <td style={{ padding: "0.75rem", border: "1px solid #ccc" }}>AC Charges Hall Booking (5 Hours)</td>
                 <td style={{ padding: "0.75rem", border: "1px solid #ccc" }}>₹2,000</td>
               </tr>
               <tr>
