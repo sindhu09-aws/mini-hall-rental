@@ -57,7 +57,7 @@ export default function HomePage() {
         {/* Description */}
         <p style={{ fontSize: "1.6rem", marginBottom: "1.5rem" }}>
           Our elegantly designed banquet hall offers comfortable seating for up to 150 guests, along with a dedicated dining area that accommodates 36.
-          Ideally located in the heart of the city, it's the perfect venue for birthdays, weddings, receptions, parties, and special occasions.
+          Ideally located in the heart of the city, perfect venue for birthdays, weddings, receptions, parties, and special occasions.
         </p>
 
         {/* Amenities */}
