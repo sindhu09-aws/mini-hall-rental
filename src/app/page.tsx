@@ -85,11 +85,19 @@ export default function HomePage() {
             <tbody>
               <tr>
                 <td style={{ padding: "0.75rem", border: "1px solid #ccc" }}>Non-AC Hall Booking (5 Hours)*</td>
-                <td style={{ padding: "0.75rem", border: "1px solid #ccc" }}>₹11,000</td>
+                <td style={{ padding: "0.75rem", border: "1px solid #ccc" }}>₹9,800</td>
               </tr>
               <tr>
                 <td style={{ padding: "0.75rem", border: "1px solid #ccc" }}>AC Charges Hall Booking (5 Hours)*</td>
-                <td style={{ padding: "0.75rem", border: "1px solid #ccc" }}>₹13,000</td>
+                <td style={{ padding: "0.75rem", border: "1px solid #ccc" }}>₹2,000</td>
+              </tr>
+              <tr>
+                <td style={{ padding: "0.75rem", border: "1px solid #ccc" }}>Cleaning Charges</td>
+                <td style={{ padding: "0.75rem", border: "1px solid #ccc" }}>₹1,200</td>
+              </tr>
+              <tr>
+                <td style={{ padding: "0.75rem", border: "1px solid #ccc" }}>Electric and Water Charges</td>
+                <td style={{ padding: "0.75rem", border: "1px solid #ccc" }}>₹1,000</td>
               </tr>
               <tr>
                 <td style={{ padding: "0.75rem", border: "1px solid #ccc" }}>Extra Hour Charges (per hour)</td>
@@ -101,7 +109,6 @@ export default function HomePage() {
               </tr>
             </tbody>
           </table>
-          <p style={{ fontSize: "0.95rem", marginTop: "0.5rem", color: "#555" }}>* Includes cleaning and electricity charges</p>
           <p style={{ fontSize: "0.95rem", marginTop: "0.25rem", color: "#b30000" }}><strong>Note:</strong> Advance will not be returned in case of cancellation.</p>
         </div>
 
